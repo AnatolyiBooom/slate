@@ -681,4 +681,7 @@ gallery */
         flex-direction: column;
     }
 
+    .extention__btn {
+    padding: 14px 25px;
+    }
 }
