@@ -177,6 +177,7 @@ button {
     width: 100%;
     height: 551px;
     bottom: -157px;
+    z-index: -1;
 }
 
 .hero__top {
