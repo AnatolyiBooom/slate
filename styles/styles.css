@@ -689,3 +689,18 @@ gallery */
 
     
 }
+
+@media(max-width: 440px) {
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .chance__img2 {
+        top: 243px;
+    }
+
+    .partners__item:nth-child(6n) svg {
+      width: 90px;
+    }
+}
